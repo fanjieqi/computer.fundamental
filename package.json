@@ -1,0 +1,19 @@
+{
+  "name": "computer.fundamental",
+  "version": "1.0.0",
+  "description": "The fundamental of computer, writng for the beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanjieqi/computer.fundamental.git"
+  },
+  "author": "fanjieqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fanjieqi/computer.fundamental/issues"
+  },
+  "homepage": "https://github.com/fanjieqi/computer.fundamental#readme"
+}
