@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fanjieqi/computer.fundamental/issues"
   },
-  "homepage": "https://github.com/fanjieqi/computer.fundamental#readme"
+  "homepage": "https://github.com/fanjieqi/computer.fundamental#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
