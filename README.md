@@ -1,2 +1,2 @@
 # computer.fundamental
-The fundamental of computer, wring for the beginners.
+The fundamental of computer, writng for the beginners.
