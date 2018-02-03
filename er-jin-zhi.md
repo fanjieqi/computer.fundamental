@@ -34,10 +34,8 @@
 * 太字节 **1TB** \(Terabyte\) = 1024 GB，目前我笔记本电脑的硬盘大小；
 * 拍字节 **1PB** \(Petabyte\) = 1024 TB，一个相当大的集群大小；
 * 艾字节 **1EB** \(Exabyte\) = 1024 PB，估计当前互联网容量的总合；
-* 泽字节 **1ZB** \(Zettabyte \) = 1024 EB
+* 泽字节 **1ZB** \(Zettabyte\) = 1024 EB
 * 尧字节 **1YB** \(Yottabyte\) = 1024 ZB
-
-
 
 
 
