@@ -10,3 +10,5 @@ The fundamental of computer, writng for the beginners.
 
 后来发现，若毫无关于计算机的一些基础知识，就直接学习Python这门语言，会比较艰难。
 
+就此，为了帮助自己的朋友能在学习编程之前，能就一些计算机的基础知识、基础概念有一些了解，那么后期就会
+
