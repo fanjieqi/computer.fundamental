@@ -12,3 +12,5 @@ The fundamental of computer, writng for the beginners.
 
 就此，为了帮助自己的朋友能在学习编程之前，能就计算机的基础知识、基础概念有一定了解，特整理了这些资料以供各位了解学习。
 
+希望各位同行们能就资料当中的错误随意拍砖，欢迎各位的Pull Request。
+
