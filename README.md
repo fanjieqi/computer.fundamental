@@ -2,7 +2,7 @@
 
 The fundamental of computer, writng for the beginners.
 
-
+---
 
 # 《写给小白的计算机基础知识》
 
