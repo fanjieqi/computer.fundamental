@@ -4,7 +4,7 @@
 
 从1977年开始，美国国务院每年都会发布一份[《国别人权报告》](https://en.wikipedia.org/wiki/Country_Reports_on_Human_Rights_Practices)来指责各个国家的人权状况，作为回应，我国国务院每年也会发布一份[《美国的人权记录》](https://zh.wikipedia.org/wiki/美国的人权纪录)。
 
-其中[《2009年美国的人权纪录》](http://www.china-embassy.org/chn/xw/t663715.htm)，除来枪击案、犯罪率、强奸率、非法移民啊什么的，有这么一条让人印象非常深刻：
+其中[《2009年美国的人权纪录》](http://www.china-embassy.org/chn/xw/t663715.htm)，除了枪击案、犯罪率、强奸率、非法移民啊什么的，有这么一条让人印象非常深刻：
 
 > 目前全球互联网**根服务器**有13台，其中唯一的主根服务器在美国，其余12台辅根服务器中有9台在美国。
 
