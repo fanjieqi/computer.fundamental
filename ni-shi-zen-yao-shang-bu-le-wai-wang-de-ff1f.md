@@ -2,7 +2,7 @@
 
 ### 3.1 从《美国的人权记录》说起
 
-从1977年开始，美国国务院每年都会发布一份[《国别人权报告》](https://en.wikipedia.org/wiki/Country_Reports_on_Human_Rights_Practices)来指责各个国家的人权状况，作为回应，我国国务院每年也会发布一份[《美国的人权记录》](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%BA%BA%E6%9D%83%E7%BA%AA%E5%BD%95)。
+从1977年开始，美国国务院每年都会发布一份[《国别人权报告》](https://en.wikipedia.org/wiki/Country_Reports_on_Human_Rights_Practices)来指责各个国家的人权状况，作为回应，我国国务院每年也会发布一份[《美国的人权记录》](https://zh.wikipedia.org/wiki/美国的人权纪录)。
 
 其中[《2009年美国的人权纪录》](http://www.china-embassy.org/chn/xw/t663715.htm)，除来枪击案、犯罪率、强奸率、非法移民啊什么的，有这么一条让人印象非常深刻：
 
@@ -68,5 +68,12 @@
 
 当然我们可以假设114不会骗你，倘若这个『人脉较广的同学D』骗你呢？他问都不问114，即使他问了，他也只会告诉你B这个人不存在或者告诉你一个假的地址呢？
 
-北京邮电大学前校长——方滨兴院士所研究设计的[**Great Firewall**](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)，其中一项重要工作就是使得『人脉较广的同学D』骗了你。
+北京邮电大学前校长——方滨兴院士所研究设计的[**Great Firewall**](https://zh.wikipedia.org/wiki/防火长城)，其中一项重要工作就是使得『人脉较广的同学D』骗了你。
+
+### 3.5 小结
+
+* 明白IP地址的概念；
+* 明白我们所访问的**域名**其实对应到了一个IP地址，并懂得获取域名的IP地址的过程；
+
+
 
