@@ -47,7 +47,7 @@
 4. B收到信之后，按照信封上的通信地址，把钱寄回来；
 5. A收到钱，立马去缴费看病。
 
-如图所示：![](/assets/computer.fundamental %281%29.png)
+如图所示：![](/assets/computer.fundamental %282%29.png)
 
 好的，稍微学术一点，首先介绍一下www.google.com这个域名，以『.』句号分割，越往后概念越大，然后步骤：
 
