@@ -49,18 +49,19 @@
 
 如图所示：![](/assets/computer.fundamental %281%29.png)
 
-好的，稍微学术一点：
+好的，稍微学术一点，首先介绍一下www.google.com这个域名，以『.』句号分割，越往后概念越大，然后步骤：
 
-1. 你在浏览器输入『map.google.com』，想要获取Google地图首页内容；
-2. 若浏览器知道『map.google.com』的IP地址，直接寄出；
-3. 若浏览器不知『map.google.com』的IP地址，浏览器会问『DNS服务器』，『map.google.com』的IP地址是多少？
-   1. 若『DNS服务器』知道『map.google.com』的IP地址，返回给浏览器，直接寄出；
-   2. 若『DNS服务器』不知『map.google.com』的IP地址
-      1. 『DNS服务器』存有世界上13个**根域名服务器**的IP地址，它会先问『根域名服务器』，『.com**权威域名服务器**』IP地址是多少？
-      2. 得知『.com权威域名服务器』IP地址，『DNS服务器』继续问『.com权威域名服务器』，『google.com权威域名服务器』IP地址是多少？
-      3. 得知『.google.com权威域名服务器』IP地址，『DNS服务器』继续问『.google.com权威域名服务器』，『map.google.com』IP地址是多少？
-      4. 得知『map.google.com』IP地址，『DNS服务器』把IP地址反馈给浏览器，直接寄出；
-4. 『map.google.com』服务器收到请求后，按照请求中的通信地址，把Google地图的首页内容发送回来；
+1. 你在浏览器输入『www.google.com』，想要获取Google首页内容；
+2. 若浏览器知道『www.google.com』的IP地址，直接寄出；
+3. 若浏览器不知『www.google.com』的IP地址，浏览器会问『DNS服务器』，『www.google.com』的IP地址是多少？
+   1. 若『DNS服务器』知道『www.google.com』的IP地址，返回给浏览器，直接寄出；
+   2. 若『DNS服务器』不知『www.google.com』的IP地址
+      1. 『DNS服务器』存有世界上13个**根域名服务器**的IP地址，而每个根域名服务器都存有所有**顶级域名服务器**的IP地址；
+      2. 『DNS服务器』先问所有的『根域名服务器』，『.com**顶级域名服务器**』IP地址是多少？
+      3. 得知『.com顶级域名服务器』IP地址，『DNS服务器』继续问『.com顶级域名服务器』，『.google.com**二级域名服务器**』IP地址是多少？
+      4. 得知『.google.com二级域名服务器』IP地址，『DNS服务器』继续问『.google.com二级域名服务器』，『www.google.com』IP地址是多少？
+      5. 得知『www.google.com』IP地址，『DNS服务器』把IP地址反馈给浏览器，直接寄出；
+4. 『www.google.com』服务器收到请求后，按照请求中的通信地址，把Google首页内容发送回来；
 5. 浏览器收到内容，立马开始渲染地图。
 
 ## 3.4 GFW简介
