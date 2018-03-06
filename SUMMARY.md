@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [前言](README.md)
 * [二进制](er-jin-zhi.md)
@@ -9,8 +9,6 @@
 * 基本数据结构
 * 文件操作
 * 网络通信
-* 数据库
-* 操作系统
-
-
+* [数据库](shu-ju-ku.md)
+* [操作系统](cao-zuo-xi-tong.md)
 
